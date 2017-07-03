@@ -1,0 +1,14 @@
+body{
+background: #f9f9f9f;
+}
+.container-fluid .jumbotron{
+color: #ffffff;
+background: #0000e5;
+}
+.raisedTable{
+box-shadow: 0 2px 5px  #b2aadd;
+}
+.panel-primary>.panel-heading {
+    color: #fff;
+background: #0000e5;
+}
